@@ -1,0 +1,16 @@
+Using jadx-gui or a likewise decompiler, search for:   runningAppProcesses = n.getRunningAppProcesses();
+
+This will be in some method like:  public static void o() {
+
+This method is called by another method like:
+    public static void n() {
+        o();
+    }
+
+- Note that the main server is compiled against framework-res.apk for the specific firmware version,
+so extract that from the firmare (or your unit)
+- do a apktool if <path_to>/framework-res.apk
+- Then decompile the apk with apktool (apktool d).
+- Find the line number for "o();" and disable that line.
+- In this version smali/app/ac.smali line 533
+- Then recompile with "apktool -c b" 
