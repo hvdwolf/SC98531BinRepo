@@ -12,5 +12,5 @@ so extract that from the firmare (or your unit)
 - do a apktool if <path_to>/framework-res.apk
 - Then decompile the apk with apktool (apktool d).
 - Find the line number for "o();" and disable that line.
-- In this version smali/app/ac.smali line 533
+- In this version smali/app/ac.smali .line 541
 - Then recompile with "apktool -c b" 
