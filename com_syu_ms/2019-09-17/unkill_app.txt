@@ -56,7 +56,7 @@ com.mapgoo.diruite
 ru.speedfire.flycontrolcenter  #FCC Car launcher
 com.iflytek.autofly  #FCC voice plugin
 altergames.carlauncher  #AGAMA car launcher
-com.autolauncher.motorcar. free  #Car launcher free
+com.autolauncher.motorcar.free  #Car launcher free
 com.autolauncher.motorcar  #Car launcher pro
 com.softartstudio.carwebguru  #Car web guru launcher
 gb.xxy.hr  #Head unit reloaded
