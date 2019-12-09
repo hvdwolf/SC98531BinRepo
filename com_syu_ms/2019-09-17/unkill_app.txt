@@ -62,6 +62,6 @@ com.softartstudio.carwebguru  #Car web guru launcher
 gb.xxy.hr  #Head unit reloaded
 gb.xxy.trial  #Head unit reloaded trial
 com.teslacoilsw.launcher  #Nova launcher
-com.teslacoilsw.launcher. prime  #Nova launcher prime
+com.teslacoilsw.launcher.prime  #Nova launcher prime
 is.shortcut  #Evie launcher
 
