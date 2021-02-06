@@ -11,4 +11,5 @@ When this USB-stick or SD-card is inserted into your unit, the unit will recogni
 Notes:
 * These flashable firmware files will leave all your installed apps and settings as they are. Only the files in these Allapp.pkg files will be overwritten.
 * The zips containing boot images will only overwrite the boot image. All apps and settings remain as they are.
-* The "combi" zips are just combinations of possible mods and/or boot images. They behave the same as the previous two.
+* (Old) The "combi" zips are just combinations of possible mods and/or boot images. They behave the same as the previous two.
+* The teyes_com_syu_ms folder contains extended and nokill mods for the main server apk. (I flashed that firmware also to my Joying and used it for 2 weeks. Then I was completely fed up with the T'eyes restricitions and blocking of the Google Assistant and flashed my Joying firmware with my mods back)
